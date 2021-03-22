@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "algorand-nft": {
+      "commandName": "Project",
+      "commandLineArgs": "https://hk.bsngate.com/api/52d4322a9919ba28bc2bfca331c83ff1dbb851285efe33a3c724451e2ce0940e/Algorand-Testnet/algodrest 8c5bebb4f9ace4dd536d8e3d23f20d02e68506b3a5f034bf93ab784665bebf4a"
+    }
+  }
+}
